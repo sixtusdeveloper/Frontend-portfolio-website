@@ -1,3 +1,1 @@
-# personal-portfolio
-Sixtusdev personal portfolio website
-Check me out on: https://sixtusdeveloper.github.io/myportfolio/
+A Frontend professional portfolio website for a Software Developer Using frontend technologies -> HTML, CSS & JS.
